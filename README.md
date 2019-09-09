@@ -2,7 +2,7 @@
 
 **Kotlin Language** is a base project that can be used to practice your **Kotlin** skills.
 
-**Note:** In this repo inside class Main.kt you can see all examples showed in the **Kotlin Language** session
+**Note:** In this repo inside of class [Main.kt](src/Main.kt) you can see all examples showed in the **Kotlin Language** session
 
 ## Project setup
 

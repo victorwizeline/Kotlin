@@ -31,7 +31,7 @@ fun main() {
 //    var message: String? = null
 //    message?.length
 
-//    Valid but not recommended
+//    Force-unwrapping is valid but not recommended
 //    var message: String? = null
 //    message!!.length
 
@@ -105,7 +105,7 @@ fun main() {
 //        "Class Type"
 //    )
 
-//    With name field
+//    With named parameters
 //    val myClass = MyClass(
 //        type = "Class Type"
 //    )
