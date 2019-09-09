@@ -1,14 +1,14 @@
-# Kotlin Template
+# Kotlin Language - Android Academy
 
-**Kotlin Template** is a base project that can be used to practice your **Kotlin** skills.
+**Kotlin Language** is a base project that can be used to practice your **Kotlin** skills.
+
+**Note:** In this repo inside class Main.kt you can see all examples showed in the **Kotlin Language** session
 
 ## Project setup
 
 The only requirement is to have IntelliJ installed in your computer.
 
 ![Alt text](https://github.com/victorwizeline/Kotlin/blob/master/Kotlin.png?raw=true "Kotlin Logo")
-
-
 ## License
 
     Copyright 2019 Victor Mariano Lopez Medina
