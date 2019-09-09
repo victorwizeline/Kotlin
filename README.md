@@ -6,6 +6,9 @@
 
 The only requirement is to have IntelliJ installed in your computer.
 
+![Alt text](https://github.com/victorwizeline/Kotlin/blob/master/Kotlin.png?raw=true "Kotlin Logo")
+
+
 ## License
 
     Copyright 2019 Victor Mariano Lopez Medina
